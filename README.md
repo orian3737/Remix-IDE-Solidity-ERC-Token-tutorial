@@ -368,9 +368,16 @@ This is a intro to Solidity programing. It covers the basics of writing a ERC to
 
 //    function send(address reciever, uint amount) public {
 
+
 //        balances[msg.sender] -= amount;
+
+
 //        balances[reciever] += amount;
+
+
 //        emit sent(msg.sender, reciever, amount);
+
+
 //}
 
 //}
